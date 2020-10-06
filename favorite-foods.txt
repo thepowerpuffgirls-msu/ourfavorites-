@@ -10,5 +10,4 @@ Chicharron
 Albondigas
 Sopes
 bacon
-Banannas
-camote
+Turkey Leg
