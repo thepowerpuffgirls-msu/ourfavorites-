@@ -8,10 +8,4 @@ Birria
 Tamales
 Chicharron
 Albondigas
-<<<<<<< HEAD
-Tacos de Tripa
-=======
-cheese
-
-
->>>>>>> i like cheese
+bacon
